@@ -5,6 +5,8 @@ class Main{
         int a =40;
         int b = 60;
         System.out.println(a+b);
+
+        System.out.println("Практическая работа №6");
     }
 }
 
