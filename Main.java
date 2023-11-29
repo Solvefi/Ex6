@@ -8,7 +8,8 @@ class Main{
 
         String str1="Lord of";
         String str2 = "the Mysteries";
-
         System.out.println(str1+str2);
+
+        System.out.println("Задание 2");
     }
 }
