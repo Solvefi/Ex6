@@ -5,5 +5,8 @@ class Main{
         int a=66;
         int b=11;
         System.out.println(a/b);
+
+        String str1="Lord of";
+        String str2 = "the Mysteries";
     }
 }
