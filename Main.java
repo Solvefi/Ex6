@@ -7,6 +7,10 @@ class Main{
         System.out.println(a+b);
 
         System.out.println("Практическая работа №6");
+
+        String str1="Space";
+        String str2 = "Station";
+
     }
 }
 
