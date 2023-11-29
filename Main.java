@@ -9,7 +9,9 @@ class Main{
         System.out.println("Практическая работа №6");
 
         String str1="Space";
-        String str2 = "Station";
+        String str2 = "Station ";
+
+        System.out.println((str1+str2).trim());
 
     }
 }
